@@ -6,7 +6,7 @@
  .container{
      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
      padding: 20px;
-    border: solid;
+    /* border: solid; */
     height: 500px;
     width: 800px;
     margin: auto;
